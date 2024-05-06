@@ -5,6 +5,7 @@ Graduate Course: Emory CS534 'Intro. to Machine Learning', taught by Dr Hyeok Kw
 See Final Report and Project Proposal for context. 
 
 ----------------  Setting up Virtual Environment ----------------
+
 To create the necessary virtual environment for this project see requirements.txt for packages/libraries. (latest version to be uploaded after project completion)
 
 ----------------  About the Data ----------------
