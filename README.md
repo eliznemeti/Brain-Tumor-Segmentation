@@ -7,6 +7,10 @@ See Final Report and Project Proposal for context.
 
 ![segmentation](segmentation.png)
 
+----------------  Use as .ipynb or .py ----------------
+
+If you prefer .py files over the .ipynb, simply download the .ipynb files locally, 'open with' VScode, select 'Restriced' < 'Trust this file', select '...', 'Export', 'Python script'. 
+
 ----------------  Virtual Environment ----------------
 
 To create the necessary virtual environment for this project see requirements.txt.
