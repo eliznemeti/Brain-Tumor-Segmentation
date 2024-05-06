@@ -1,0 +1,17 @@
+# Ignore all .h5 files
+*.h5
+
+# Ignore specific directories
+bin/
+lib/
+logs/
+models/
+share/
+include/
+
+# Ignore specific files
+UNET_Monjoydata_runs.ipynb
+
+# System files
+.DS_Store
+
