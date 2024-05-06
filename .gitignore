@@ -11,6 +11,7 @@ include/
 
 # Ignore specific files
 UNET_Monjoydata_runs.ipynb
+supporting_algorithms/UNET_lossfunctions.ipynb
 pyvenv.cfg
 
 # System files
