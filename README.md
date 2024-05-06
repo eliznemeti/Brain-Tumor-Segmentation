@@ -19,6 +19,7 @@ Benchmarking: BRaTs 2018 dataset, request access at https://www.med.upenn.edu/sb
 ----------------  About the Files ----------------
 
 To balance Cheng 2016 dataset -> class_balancing_alg.ipynb
+
 To remove Cheng 2016 dataset labels for FCM clustering algorithm -> label_removal_alg.ipynb
 
 ----------------  About the Models ----------------
