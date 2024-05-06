@@ -24,7 +24,9 @@ To remove Cheng 2016 dataset labels for FCM clustering algorithm -> label_remova
 Documentation and recommended settings are already included throughout the Jupyter files. 
 
 Run UNET model -> UNET_brainTU_multiclass_segmentation.ipynb
+
 Run FCM model -> FCM_brainTU_multiclass_segmentation.ipynb
+
 Run SVM model -> SVM_brainTU_multiclass_segmentation.ipynb (PENDING UPDATE, to be uploaded/done by collaborator)
 
 The .h5 trained model files greatly exceed github's storage limit, therefore they cannot be uploaded and you must obtain them by running the code and training the models yourself. (PENDING UPDATE looking to overcome this limitation soon)
