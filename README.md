@@ -7,9 +7,9 @@ See Final Report and Project Proposal for context.
 
 ![segmentation](segmentation.png)
 
-----------------  Setting up Virtual Environment ----------------
+----------------  Virtual Environment ----------------
 
-To create the necessary virtual environment for this project see requirements.txt for packages/libraries. (latest version to be uploaded after project completion)
+To create the necessary virtual environment for this project see requirements.txt.
 
 ----------------  About the Data ----------------
 
