@@ -4,6 +4,8 @@ A Comparative Study of Machine Learning and Deep Learning Multi-Class Segmentati
 Graduate Course: Emory CS534 'Intro. to Machine Learning', taught by Dr Hyeok Kwon, Spring 2024, PhD Year 1
 See Final Report and Project Proposal for context. 
 
+![segmentation](segmentation.png)
+
 ----------------  Setting up Virtual Environment ----------------
 
 To create the necessary virtual environment for this project see requirements.txt for packages/libraries. (latest version to be uploaded after project completion)
