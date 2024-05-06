@@ -11,6 +11,7 @@ include/
 
 # Ignore specific files
 UNET_Monjoydata_runs.ipynb
+pyvenv.cfg
 
 # System files
 .DS_Store
