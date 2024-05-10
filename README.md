@@ -15,11 +15,15 @@ If you prefer .py files over the .ipynb, simply download the .ipynb files locall
 
 To create the necessary virtual environment for this project see requirements.txt.
 
-----------------  About the Data ----------------
-
+---------------- About the Data ----------------
 Training/Testing: Cheng 2016 dataset, refer to Jun Cheng. Brain tumor dataset. figshare. Dataset, 1512427(5), 2017. (note: open access)
+Benchmarking: Used a combination of 2 datasets:
 
-Benchmarking: BRaTs 2018 dataset, request access at https://www.med.upenn.edu/sbia/brats2018/data.html (note: do NOT ask me for access)
+    - BRaTs 2018 dataset containing glioma tumor data, request access at https://www.med.upenn.edu/sbia/brats2018/data.html (note: do NOT ask me for access)
+
+    - Brain Tumor Classification Dataset 2018 containing meningioma and pituitary tumor data, refer to: https://github.com/SartajBhuvaji/Brain-Tumor-Classification-DataSet/tree/master/Training
+
+datasets folder temporarily empty due to exceeded LFS storage this month, to be converted to enterprise and reuploaded
 
 ----------------  About the Files ----------------
 
