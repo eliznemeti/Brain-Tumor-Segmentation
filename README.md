@@ -1,4 +1,4 @@
-# Brain_Tumor_Segmentation_Project
+# Brain-Tumor-Segmentation
 A Comparative Study of Machine Learning and Deep Learning Multi-Class Segmentation Methods
 
 Graduate Course: Emory CS534 'Intro. to Machine Learning', taught by Dr Hyeok Kwon, Spring 2024, PhD Year 1
