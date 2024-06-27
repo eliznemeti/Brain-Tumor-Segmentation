@@ -10,7 +10,7 @@ iteration = 400;
 epsilon = 0.3;
 
 %% Testing
-files_path = '/Users/elizabethnemeti/Desktop/data'; % Change this to your data directory
+files_path = '/Desktop/data'; % Change this to your data directory
 all_files = dir(fullfile(files_path,'*.mat')); % Adjusted to .mat files
 for ii = 1:length(all_files)
     
